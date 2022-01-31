@@ -3,6 +3,9 @@
 Link do Curso: [https://cursos.alura.com.br/course/geopandas-visualizacao-mapas-interativos](https://cursos.alura.com.br/course/geopandas-visualizacao-mapas-interativos)
 
 **Instalação:**  
+
+conda install -c conda-forge folium
+
  
 **Aulas:**  
   
