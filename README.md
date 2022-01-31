@@ -20,3 +20,9 @@ conda install -c conda-forge folium
 - [ ] 04 - Visualizações com Folium
 
 **Conteúdos Aprendidos:**  
+
+- Como instalar o Folium através do Anaconda e do PyPI
+- Como acessar arquivos zipados dentro de uma pasta e extraí-los
+- Como ler shapefiles
+- Como concatenar vários shapefiles em um único GeoDataFrame
+- Como apagar pastas
