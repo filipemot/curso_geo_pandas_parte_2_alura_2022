@@ -13,7 +13,7 @@ conda install -c conda-forge xlrd
   
 - [X] 01 - Conhecendo o censo demográfico
   
-- [ ] 02 - Agregando os dados do censo ao projeto
+- [X] 02 - Agregando os dados do censo ao projeto
   
 - [ ] 03 - Juntando regiões geográficas 
   
