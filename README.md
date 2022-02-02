@@ -28,3 +28,7 @@ conda install -c conda-forge xlrd
 - Como ler shapefiles
 - Como concatenar vários shapefiles em um único GeoDataFrame
 - Como apagar pastas
+- Como ler uma planilha do Excel e guardar os seus dados em um DataFrame
+- Como modificar o tipo de uma variável de um DataFrame
+- Como fazer o merge de um DataFrame e de um GeoDataFrame
+- Como juntar os dados censitários ao dataset
