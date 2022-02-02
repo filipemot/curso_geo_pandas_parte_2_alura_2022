@@ -6,10 +6,12 @@ Link do Curso: [https://cursos.alura.com.br/course/geopandas-visualizacao-mapas-
 
 conda install -c conda-forge folium
 
+conda install -c conda-forge xlrd
+
  
 **Aulas:**  
   
-- [ ] 01 - Conhecendo o censo demográfico
+- [X] 01 - Conhecendo o censo demográfico
   
 - [ ] 02 - Agregando os dados do censo ao projeto
   
