@@ -1,4 +1,4 @@
-# GeoPandas Parte 2: Visualização com mapas interativos - Alura - 2022
+# GeoPandas Parte 2: Visualização com mapas interativos - Alura - Janeiro - 2022
 
 Link do Curso: [https://cursos.alura.com.br/course/geopandas-visualizacao-mapas-interativos](https://cursos.alura.com.br/course/geopandas-visualizacao-mapas-interativos)
 
