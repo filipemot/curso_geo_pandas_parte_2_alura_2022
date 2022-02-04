@@ -15,11 +15,11 @@ conda install -c conda-forge xlrd
   
 - [X] 02 - Agregando os dados do censo ao projeto
   
-- [ ] 03 - Juntando regiões geográficas 
+- [X] 03 - Juntando regiões geográficas 
   
 - [ ] 04 - Visualizações com Folium
   
-- [ ] 04 - Visualizações com Folium
+- [ ] 05 - Mapa de Calor
 
 **Conteúdos Aprendidos:**  
 
@@ -32,3 +32,6 @@ conda install -c conda-forge xlrd
 - Como modificar o tipo de uma variável de um DataFrame
 - Como fazer o merge de um DataFrame e de um GeoDataFrame
 - Como juntar os dados censitários ao dataset
+- Como agregar os bairros em um GeoDataFrame
+- Como somar a população de cada bairro
+- Como criar um índice para cada bairro
