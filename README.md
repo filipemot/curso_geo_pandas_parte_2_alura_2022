@@ -17,7 +17,7 @@ conda install -c conda-forge xlrd
   
 - [X] 03 - Juntando regiões geográficas 
   
-- [ ] 04 - Visualizações com Folium
+- [X] 04 - Visualizações com Folium
   
 - [ ] 05 - Mapa de Calor
 
@@ -35,3 +35,8 @@ conda install -c conda-forge xlrd
 - Como agregar os bairros em um GeoDataFrame
 - Como somar a população de cada bairro
 - Como criar um índice para cada bairro
+- Como gerar mapas de camadas simples
+- Como gerar mapas de várias camadas
+- Como adicionar popups ao mapa
+- Como gerar mapas com marcadores
+- Como gerar mapas com marcadores clusterizados
