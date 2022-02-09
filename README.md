@@ -19,7 +19,7 @@ conda install -c conda-forge xlrd
   
 - [X] 04 - Visualizações com Folium
   
-- [ ] 05 - Mapa de Calor
+- [X] 05 - Mapa de Calor
 
 **Conteúdos Aprendidos:**  
 
@@ -40,3 +40,5 @@ conda install -c conda-forge xlrd
 - Como adicionar popups ao mapa
 - Como gerar mapas com marcadores
 - Como gerar mapas com marcadores clusterizados
+- Como preparar o código para gerar mapas de calor
+- Como gerar mapas de calor
